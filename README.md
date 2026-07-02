@@ -45,8 +45,8 @@ _**if you like my repositories, or any other modding solutions, extensions. tho 
 
 ### <img src="https://i.imgur.com/9KwWAN9.png">
 ![Gmail](https://img.shields.io/badge/flaecord@gmail.com-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335)
-![Discord](https://img.shields.io/badge/territorybanned-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)
-![Telegram](https://img.shields.io/badge/@terryluvcult-26A5E4?style=for-the-badge&labelColor=black&logo=telegram&logoColor=26A5E4)
-![Instagram](https://img.shields.io/badge/@territorybanned-FF0069?style=for-the-badge&labelColor=black&logo=instagram&logoColor=FF0069)
+![Discord](https://img.shields.io/badge/kzheps-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)
+![Telegram](https://img.shields.io/badge/@mikelovenstein-26A5E4?style=for-the-badge&labelColor=black&logo=telegram&logoColor=26A5E4)
+![Instagram](https://img.shields.io/badge/@kzheps-FF0069?style=for-the-badge&labelColor=black&logo=instagram&logoColor=FF0069)
 
 <img src="https://i.imgur.com/Ujy02bg.png">
